@@ -1,0 +1,10 @@
+# removes all mac files
+.DS_store
+
+# removes ide files
+.vscode
+
+# cache type files and folders
+*.py[cod]
+*/__pycache__
+*.pytest_cache
